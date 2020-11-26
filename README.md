@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 </a>
-<a href="https://github.com/ifanzilka">
+<a href="https://t.me/ewos365">
 	<img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg" />
 </a>
 
-<a href="https://t.me/ifanzilka">
+<a href="https://t.me/ewos365">
 	<img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   
 <br>
