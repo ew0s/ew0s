@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![img]()
+
 
 </a>
 <a href="https://t.me/ewos365">
