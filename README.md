@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![img](https://github.com/ew0s/ew0s/blob/main/ew0s.png)
+![img](https://export-download.canva.com/owYkc/DAEX-rowYkc/689/0/0001-17882245930.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20210305%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T235131Z&X-Amz-Expires=56285&X-Amz-Signature=20fd51672aa52fa6a0671ff10c41adb718a185447da1f92904361c2a633d8caa&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27ew0s.svg&response-expires=Sat%2C%2006%20Mar%202021%2015%3A29%3A36%20GMT)
 
 </a>
 <a href="https://t.me/ewos365">
