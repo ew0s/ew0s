@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![img](https://github.com/ew0s/ew0s/blob/main/1.png)
+![img]()
 
 </a>
 <a href="https://t.me/ewos365">
