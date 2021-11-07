@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
 </a>
 <a href="https://t.me/ewos365">
 	<img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg" />
