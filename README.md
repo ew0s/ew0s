@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ew0s/ew0s/output/github-contribution-grid-snake.svg)
 
 </a>
 <a href="https://t.me/ewos365">
