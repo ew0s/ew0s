@@ -1,4 +1,3 @@
-- name: generate-snake-game-from-github-contribution-grid
 - uses: Platane/snk@master
   with:
     # github user name to read the contribution graph from (**required**)
